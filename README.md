@@ -1,4 +1,4 @@
-An simple example to simulated messages from a connected car
+An simple example to simulate messages from a connected car
 
 Here is the message flow 
 
